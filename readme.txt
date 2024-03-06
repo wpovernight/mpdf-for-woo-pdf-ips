@@ -5,7 +5,7 @@ Tags: woocommerce, mpdf, pdf, rtl
 Requires at least: 4.4
 Tested up to: 6.4
 Requires PHP: 7.2
-Stable tag: 2.5.0c
+Stable tag: 2.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,13 +29,21 @@ If you want to contribute to the code, feel free to submit a PR. You can also op
 
 == Changelog ==
 
+= 2.5.0 =
+* New: updates the template functions with the recent base plugin changes
+* New: bumps mPDF version to 8.2.2
+
+= 2.4.2 =
+* Fix: bug on footer not fixed in bottom on Simple mPDF and RTL templates
+
+= 2.4.1 =
+* Includes document object in PDF maker class and filters
+* Use title & number methods in Invoice templates
+* Adds two new filters before and after mPDF write HTML
+
 = 2.4.0 =
-* New: Support for invoice notes & the display document notes setting
-* New: RTL support setting in General tab
-* New: Template wrapper class indicating mpdf & rtl usage
-* Fix: Exclude from WooCommerce plugin compatibility checklist
-* Fix: Removing p tags on item meta
-* Fix: Add missing template action hooks
+* Fix: HTML modifications in bulk export
+* Updated mpdf to 8.0.17
 
 = 2.3.0 =
 * New: Support for invoice notes & the display document notes setting
