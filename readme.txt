@@ -30,6 +30,7 @@ If you want to contribute to the code, feel free to submit a PR. You can also op
 == Changelog ==
 
 = 2.5.0 =
+* New: adds missing document template files for: proforma, credit-note and receipt
 * New: updates the template functions with the recent base plugin changes
 * New: bumps mPDF version to 8.2.2
 
