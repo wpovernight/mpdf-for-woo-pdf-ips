@@ -1,4 +1,4 @@
-=== mPDF engine for PDF Invoices & Packing Slips for WooCommerce ===
+=== PDF Invoices & Packing Slips for WooCommerce - mPDF ===
 Contributors: wpovernight
 Donate link: https://wpovernight.com/
 Tags: woocommerce, mpdf, pdf, rtl
