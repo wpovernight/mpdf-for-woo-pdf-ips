@@ -9,11 +9,11 @@ Stable tag: 2.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add mPDF engine compatibility to WooCommerce's PDF Invoices & Packing Slips for flexible document creation.
+Add mPDF engine compatibility to PDF Invoices & Packing Slips for WooCommerce for flexible document creation.
 
 == Description ==
 
-Enhance your WooCommerce PDF Invoices & Packing Slips with mPDF engine integration, replacing the default engine for improved handling of specific languages, including Arabic and Hebrew. This alternative offers robust support for right-to-left orientation, ensuring seamless document creation for a wider range of linguistic needs.
+Enhance your PDF Invoices & Packing Slips for WooCommerce with mPDF engine integration, replacing the default engine for improved handling of specific languages, including Arabic and Hebrew. This alternative offers robust support for right-to-left orientation, ensuring seamless document creation for a wider range of linguistic needs.
 
 
 == Frequently Asked Questions ==
