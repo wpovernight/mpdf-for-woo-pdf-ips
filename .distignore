@@ -7,3 +7,6 @@
 .distignore*
 .gitignore
 .gitattributes
+deploy.sh
+deploy-dry-run.sh
+patch.sh
